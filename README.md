@@ -1,5 +1,3 @@
-This code is a Python script for a machine learning project focused on predicting booking cancellations. Let's break down what each section does:
-
 ### 1. Import Libraries
 - Imports necessary libraries like pandas, numpy, matplotlib, seaborn, ydata_profiling, sklearn modules, and warning.
 
